@@ -1,2 +1,1 @@
-# SPL
-Work with data from Seattle Public Library
+This is a compilation of the work I did with data from the Seattle Public Library system. Work includes machine learning feature creation, data wrangling and visualization, and machine learning. All work was done in Databricks.
